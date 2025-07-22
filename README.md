@@ -24,20 +24,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Siddhesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddheshSuryawanshi17&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshSuryawanshi17&layout=compact&theme=dark)
-
----
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=SiddheshSuryawanshi17&theme=dark)
-
----
-
 ### 🔗 Connect with me:
 
 [![X (Twitter)](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SiddheshSurya12)
