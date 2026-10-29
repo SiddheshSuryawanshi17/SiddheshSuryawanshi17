@@ -39,7 +39,7 @@ My recent work centres on **applied AI**: running LLMs locally on everyday hardw
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,ts,go,kotlin,dart,php,r,solidity,bash,md&perline=14" />
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts&perline=14" />
 </p>
 
 **AI / ML & Data Science**
