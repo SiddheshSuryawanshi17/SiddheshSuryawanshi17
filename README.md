@@ -13,6 +13,7 @@
   <a href="https://portfolio-seven-rho-6giumv599g.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/siddhesh-suryawanshi-866b67361/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:siddheshksuryawanshi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/SiddheshS/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://x.com/SiddheshSurya12"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://dev.to/siddheshsuryawanshi"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </p>
@@ -202,6 +203,12 @@ My recent work centres on **applied AI**: running LLMs locally so user data neve
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SiddheshSuryawanshi17&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/SiddheshS/">
+    <img src="https://leetcard.jacoblin.cool/SiddheshS?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats" />
+  </a>
 </p>
 
 <p align="center">
