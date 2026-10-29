@@ -78,7 +78,7 @@ My recent work centres on **applied AI**: running LLMs locally on everyday hardw
 **Backend & APIs**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,django,spring,laravel,graphql,prisma&perline=14" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&perline=14" />
 </p>
 
 **Mobile**
@@ -96,10 +96,7 @@ My recent work centres on **applied AI**: running LLMs locally on everyday hardw
 **Cloud & DevOps**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=gcp,aws,azure,cloudflare,vercel,netlify,heroku,docker,kubernetes,terraform,ansible,jenkins,githubactions,nginx&perline=14" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,kafka,rabbitmq,linux,ubuntu&perline=14" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,githubactions,linux&perline=14" />
 </p>
 
 **Testing & QA**
