@@ -24,7 +24,7 @@
 
 I'm a Computer Engineering student at **SPPU** (JESITMR, Nashik) who builds end-to-end products: the model, the API, the interface and the pipeline that ships it.
 
-My recent work centres on **applied AI**: running LLMs locally so user data never leaves the device, and designing **multi-agent pipelines** that keep AI decisions auditable. I'm just as comfortable on the web stack and in the cloud, and I like owning a feature from the first commit to production.
+My recent work centres on **applied AI**: running LLMs locally on everyday hardware, and designing **multi-agent pipelines** that keep AI decisions auditable. I'm just as comfortable on the web stack and in the cloud, and I like owning a feature from the first commit to production.
 
 - 🏆 **Winner, ML Nashik Hackathon 2026** for a fully offline, voice-based AI interviewer
 - 🧠 Building **MedIntel**, a multi-agent framework for clinical decision support (final-year research project)
@@ -219,7 +219,7 @@ My recent work centres on **applied AI**: running LLMs locally so user data neve
 
 ## What I'm Looking For
 
-I enjoy problems where **AI meets real users**: privacy-sensitive applications, developer tooling, and systems that need to be explainable. If you're building something in that space, or just want to talk tech, my inbox is open.
+I enjoy problems where **AI meets real users**: intelligent automation, developer tooling, and systems that need to be explainable. If you're building something in that space, or just want to talk tech, my inbox is open.
 
 <p align="center">
   <a href="mailto:siddheshksuryawanshi@gmail.com"><b>siddheshksuryawanshi@gmail.com</b></a>
