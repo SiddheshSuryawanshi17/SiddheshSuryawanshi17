@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/SiddheshSuryawanshi17">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=I+build+AI+products+that+respect+your+privacy;Multi-agent+systems+%E2%80%A2+Local+LLMs+%E2%80%A2+RAG;Full-stack+apps+with+React%2C+Node+%26+FastAPI;Shipping+on+Docker%2C+Kubernetes+%26+GCP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Turning+ideas+into+scalable%2C+intelligent+software;Multi-agent+systems+%E2%80%A2+Local+LLMs+%E2%80%A2+RAG;Full-stack+apps+with+React%2C+Node+%26+FastAPI;Shipping+on+Docker%2C+Kubernetes+%26+GCP" alt="Typing SVG" />
   </a>
 </p>
 
