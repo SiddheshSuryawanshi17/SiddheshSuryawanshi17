@@ -202,10 +202,6 @@ My recent work centres on **applied AI**: running LLMs locally on everyday hardw
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SiddheshSuryawanshi17&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
   <a href="https://leetcode.com/u/SiddheshS/">
     <img src="https://leetcard.jacoblin.cool/SiddheshS?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats" />
   </a>
