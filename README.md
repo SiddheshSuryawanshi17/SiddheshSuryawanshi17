@@ -90,7 +90,7 @@ My recent work centres on **applied AI**: running LLMs locally on everyday hardw
 **Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,firebase,supabase,dynamodb,cassandra,elasticsearch&perline=14" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,firebase,supabase,dynamodb&perline=14" />
 </p>
 
 **Cloud & DevOps**
