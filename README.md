@@ -204,9 +204,6 @@ My recent work centres on **applied AI**: running LLMs locally on everyday hardw
   </a>
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/38BDF8/SiddheshSuryawanshi17" alt="Contribution chart" width="100%" />
-</p>
 
 ---
 
